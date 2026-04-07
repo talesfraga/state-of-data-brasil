@@ -66,7 +66,7 @@ Este projeto me ajudou a evoluir principalmente em:
 ## Como rodar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/talesfraga/state-of-data-brasil
 cd seu-repositorio
 pip install -r requirements.txt
 streamlit run main.py
